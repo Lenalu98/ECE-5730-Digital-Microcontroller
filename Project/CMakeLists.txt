@@ -1,0 +1,2 @@
+add_subdirectory(Shift_Register)
+add_subdirectory(Main)
